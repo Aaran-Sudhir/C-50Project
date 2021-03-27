@@ -1,0 +1,42 @@
+h1{
+    color:rgb(3, 112, 107);
+    font-family : fantasy;
+}
+.grid1{
+
+    display:flex;
+border:2px solid rgb(122, 95, 6);
+border-radius : 35px;
+background-color :rgb(237, 238, 194);
+}
+
+.grid2{
+
+    display:flex;
+border:2px solid black;
+border-radius : 35px;
+background-color :rgb(195, 200, 223);
+}
+
+.grid3{
+
+    display:flex;
+border:2px solid rgb(37, 117, 5);
+border-radius : 35px;
+background-color :rgb(198, 238, 194);
+}
+
+.monkey{
+    color:rgba(95, 54, 7, 0.568);
+    font-family : fantasy;
+}
+
+.penguin{
+    color:rgb(14, 11, 8);
+    font-family : fantasy;
+}
+
+.cham{
+    color:rgba(42, 95, 7, 0.568);
+    font-family : fantasy;
+}
